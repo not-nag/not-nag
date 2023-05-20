@@ -1,3 +1,4 @@
+<p align="center"><img align="center" height="300"src="banner.png" alt="Introduction"></p> 
 <h1 align="center">Hi 👋, I'm Nagraj</h1>
 <h3 align="center">An Engineering student who interacts with a machine that knows only 0 and 1.</h3>
 
